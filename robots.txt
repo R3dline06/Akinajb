@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://akinajb.com/sitemap.xml
